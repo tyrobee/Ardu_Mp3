@@ -9,3 +9,5 @@ It features a custom UI, menu navigation, and physical button controls, making i
 
 ## Schematics
 ![Preview 1](schematics/p1.png)
+
+## BOM
