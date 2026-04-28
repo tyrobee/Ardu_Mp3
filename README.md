@@ -10,8 +10,14 @@ It features a custom UI, menu navigation, and physical button controls, making i
 ## Schematics
 ![Preview 1](schematics/p1.png)
 
+## CAD
+![C1](photos/C1.png)
+
+## Assembly
+![A1](photos/A1.png)
+
+
 ## BOM
-## 🧾 Bill of Materials (BOM)
 
 | S.No | Name | Description | Quantity | Category | Distributor |
 |------|------|------------|----------|----------|-------------|
